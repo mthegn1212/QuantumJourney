@@ -1,0 +1,15 @@
+# Môi trường ảo
+venv/
+env/
+.env
+
+# Python compilation
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
