@@ -1,9 +1,13 @@
-# My Quantum Journey
+# Quantum Machine Learning Journey 🌌
 
-The journey to conquer Quantum Machine Learning from scratch.
-Start: February 2nd, 2026.
+A structured implementation of Quantum Computing concepts, Mathematics, and Algorithms using **Qiskit**.
 
-## Roadmap
-1. Math Foundations
-2. Basic Quantum Circuits
-3. Algorithms & QML
+## 🏗 Project Structure
+
+- **`foundations/`**: Core mathematical concepts, Linear Algebra, and Quantum Physics principles (Superposition, Entanglement).
+- **`algorithms/`**: Implementation of famous Quantum Protocols (Teleportation, Superdense Coding, Grover's, etc.).
+
+## 🛠 Tech Stack
+- **Python**
+- **Qiskit** (IBM Quantum)
+- **Matplotlib** (Visualization)
